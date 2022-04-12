@@ -1,0 +1,16 @@
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.csproj.AssemblyReference.cache
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.AssemblyInfoInputs.cache
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.AssemblyInfo.cs
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.csproj.CoreCompileInputs.cache
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.exe
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.deps.json
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.runtimeconfig.json
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.runtimeconfig.dev.json
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.dll
+F:\DotNET\CanBacHai\bin\Debug\net5.0\ref\CanBacHai.dll
+F:\DotNET\CanBacHai\bin\Debug\net5.0\CanBacHai.pdb
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.dll
+F:\DotNET\CanBacHai\obj\Debug\net5.0\ref\CanBacHai.dll
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.pdb
+F:\DotNET\CanBacHai\obj\Debug\net5.0\CanBacHai.genruntimeconfig.cache

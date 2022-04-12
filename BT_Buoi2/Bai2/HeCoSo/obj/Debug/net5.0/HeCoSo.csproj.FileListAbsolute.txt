@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.csproj.AssemblyReference.cache
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.exe
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.deps.json
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.dll
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\ref\HeCoSo.dll
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\bin\Debug\net5.0\HeCoSo.pdb
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.dll
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\ref\HeCoSo.dll
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.pdb
+F:\BTNET\BT_Buoi2\Bai2\HeCoSo\obj\Debug\net5.0\HeCoSo.genruntimeconfig.cache

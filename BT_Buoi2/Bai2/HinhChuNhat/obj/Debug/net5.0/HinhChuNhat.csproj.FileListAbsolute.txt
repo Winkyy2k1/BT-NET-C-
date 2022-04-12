@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.exe
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.deps.json
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.dll
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\ref\HinhChuNhat.dll
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.pdb
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.AssemblyReference.cache
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.dll
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\ref\HinhChuNhat.dll
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.pdb
+F:\BTNET\BT_Buoi2\Bai2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.genruntimeconfig.cache

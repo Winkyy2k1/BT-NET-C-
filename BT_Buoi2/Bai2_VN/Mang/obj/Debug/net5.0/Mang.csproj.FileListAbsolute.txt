@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.exe
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.deps.json
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\ref\Mang.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\bin\Debug\net5.0\Mang.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.csproj.AssemblyReference.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\ref\Mang.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

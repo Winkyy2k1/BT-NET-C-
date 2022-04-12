@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.exe
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.deps.json
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\ref\TapTin.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\bin\Debug\net5.0\TapTin.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\ref\TapTin.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.genruntimeconfig.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\TapTin\obj\Debug\net5.0\TapTin.csproj.AssemblyReference.cache

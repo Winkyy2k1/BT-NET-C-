@@ -1,0 +1,15 @@
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.exe
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.deps.json
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\ref\PhuongThuc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\bin\Debug\net5.0\PhuongThuc.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\ref\PhuongThuc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\PhuongThuc\obj\Debug\net5.0\PhuongThuc.genruntimeconfig.cache

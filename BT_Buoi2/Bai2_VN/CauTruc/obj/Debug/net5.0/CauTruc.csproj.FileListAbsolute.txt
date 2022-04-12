@@ -1,0 +1,15 @@
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.exe
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.deps.json
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\ref\CauTruc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\bin\Debug\net5.0\CauTruc.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\ref\CauTruc.dll
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.pdb
+F:\BTNET\BT_Buoi2\Bai2_VN\CauTruc\obj\Debug\net5.0\CauTruc.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.exe
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.deps.json
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.dll
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\ref\GiaiThua.dll
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\bin\Debug\net5.0\GiaiThua.pdb
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.dll
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\ref\GiaiThua.dll
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.pdb
+F:\BTNET\BT_Buoi2\Bai2\GiaiThua\obj\Debug\net5.0\GiaiThua.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BuiThiHai_2019606166_proj61/1.0.0": {
+        "runtime": {
+          "BuiThiHai_2019606166_proj61.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuiThiHai_2019606166_proj61/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

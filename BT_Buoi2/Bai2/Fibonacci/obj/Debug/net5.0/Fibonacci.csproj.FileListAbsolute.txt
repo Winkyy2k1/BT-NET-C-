@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.exe
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\ref\Fibonacci.dll
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.AssemblyReference.cache
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
+F:\BTNET\BT_Buoi2\Bai2\Fibonacci\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache

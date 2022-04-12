@@ -1,0 +1,16 @@
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.exe
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.deps.json
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.json
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.dev.json
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.dll
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\ref\CSharpCanBan.dll
+F:\DotNET\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.pdb
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfoInputs.cache
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfo.cs
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.dll
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\ref\CSharpCanBan.dll
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.pdb
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.genruntimeconfig.cache
+F:\DotNET\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.AssemblyReference.cache

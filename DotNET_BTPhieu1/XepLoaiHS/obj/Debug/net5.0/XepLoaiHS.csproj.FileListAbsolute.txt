@@ -1,0 +1,16 @@
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\ref\XepLoaiHS.dll
+F:\DotNET\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.AssemblyReference.cache
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+F:\DotNET\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache

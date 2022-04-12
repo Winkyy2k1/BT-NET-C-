@@ -1,0 +1,16 @@
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.exe
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.dll
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\ref\DanhSach.dll
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.dll
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache
+F:\BTNET\BT_Buoi2\Bai2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache

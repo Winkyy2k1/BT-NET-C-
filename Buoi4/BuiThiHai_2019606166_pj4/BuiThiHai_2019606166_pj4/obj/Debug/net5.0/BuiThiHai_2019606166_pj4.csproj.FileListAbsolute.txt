@@ -1,0 +1,24 @@
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.exe
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.deps.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.runtimeconfig.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.runtimeconfig.dev.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\ref\BuiThiHai_2019606166_pj4.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\bin\Debug\net5.0\BuiThiHai_2019606166_pj4.pdb
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.csproj.AssemblyReference.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.AssemblyInfoInputs.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.AssemblyInfo.cs
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.csproj.CoreCompileInputs.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\ref\BuiThiHai_2019606166_pj4.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.pdb
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.genruntimeconfig.cache
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.csproj.AssemblyReference.cache
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.AssemblyInfoInputs.cache
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.AssemblyInfo.cs
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.csproj.CoreCompileInputs.cache
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.dll
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\ref\BuiThiHai_2019606166_pj4.dll
+F:\BTNET\Buoi4\BuiThiHai_2019606166_pj4\BuiThiHai_2019606166_pj4\obj\Debug\net5.0\BuiThiHai_2019606166_pj4.pdb

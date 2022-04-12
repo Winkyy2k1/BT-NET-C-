@@ -1,0 +1,16 @@
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.exe
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.deps.json
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.runtimeconfig.json
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.runtimeconfig.dev.json
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.dll
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\ref\BuiThiHai_2019606166_pj5.dll
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\bin\Debug\net5.0\BuiThiHai_2019606166_pj5.pdb
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.csproj.AssemblyReference.cache
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.AssemblyInfoInputs.cache
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.AssemblyInfo.cs
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.csproj.CoreCompileInputs.cache
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.dll
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\ref\BuiThiHai_2019606166_pj5.dll
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.pdb
+F:\BTNET\Buoi5_TH\BuiThiHai_2019606166_pj5\BuiThiHai_2019606166_pj5\obj\Debug\net5.0\BuiThiHai_2019606166_pj5.genruntimeconfig.cache

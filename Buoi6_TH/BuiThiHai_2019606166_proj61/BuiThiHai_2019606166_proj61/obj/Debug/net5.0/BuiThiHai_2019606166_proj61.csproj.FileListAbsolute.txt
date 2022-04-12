@@ -1,0 +1,16 @@
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.exe
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.deps.json
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.runtimeconfig.json
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.runtimeconfig.dev.json
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.dll
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\ref\BuiThiHai_2019606166_proj61.dll
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\bin\Debug\net5.0\BuiThiHai_2019606166_proj61.pdb
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.csproj.AssemblyReference.cache
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.AssemblyInfoInputs.cache
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.AssemblyInfo.cs
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.csproj.CoreCompileInputs.cache
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.dll
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\ref\BuiThiHai_2019606166_proj61.dll
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.pdb
+F:\BTNET\Buoi6_TH\BuiThiHai_2019606166_proj61\BuiThiHai_2019606166_proj61\obj\Debug\net5.0\BuiThiHai_2019606166_proj61.genruntimeconfig.cache
