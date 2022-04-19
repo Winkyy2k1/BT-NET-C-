@@ -1,0 +1,16 @@
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.exe
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.deps.json
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.runtimeconfig.json
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.runtimeconfig.dev.json
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.dll
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\ref\BuiThiHai_2019606166_project6.3.dll
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\bin\Debug\net5.0\BuiThiHai_2019606166_project6.3.pdb
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.csproj.AssemblyReference.cache
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.AssemblyInfoInputs.cache
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.AssemblyInfo.cs
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.csproj.CoreCompileInputs.cache
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.dll
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\ref\BuiThiHai_2019606166_project6.3.dll
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.pdb
+F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\obj\Debug\net5.0\BuiThiHai_2019606166_project6.3.genruntimeconfig.cache

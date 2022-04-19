@@ -1,0 +1,16 @@
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.exe
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.deps.json
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.runtimeconfig.json
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.runtimeconfig.dev.json
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.dll
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\ref\Phieu3.dll
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\bin\Debug\net5.0\Phieu3.pdb
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.csproj.AssemblyReference.cache
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.AssemblyInfoInputs.cache
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.AssemblyInfo.cs
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.csproj.CoreCompileInputs.cache
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.dll
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\ref\Phieu3.dll
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.pdb
+F:\Hoc Tap\.NET\TH2\BT_Truoc\Phieu3\obj\Debug\net5.0\Phieu3.genruntimeconfig.cache

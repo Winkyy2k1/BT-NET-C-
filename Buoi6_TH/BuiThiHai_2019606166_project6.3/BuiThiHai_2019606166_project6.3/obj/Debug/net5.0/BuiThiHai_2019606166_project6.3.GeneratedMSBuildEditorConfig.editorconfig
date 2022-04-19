@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = BuiThiHai_2019606166_project6._3
+build_property.ProjectDir = F:\BT-NET-C#-\Buoi6_TH\BuiThiHai_2019606166_project6.3\BuiThiHai_2019606166_project6.3\

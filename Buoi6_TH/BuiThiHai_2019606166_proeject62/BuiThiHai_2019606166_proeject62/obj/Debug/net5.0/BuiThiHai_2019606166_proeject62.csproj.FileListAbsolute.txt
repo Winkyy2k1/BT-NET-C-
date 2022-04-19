@@ -1,0 +1,16 @@
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.exe
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.deps.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.runtimeconfig.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.runtimeconfig.dev.json
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\ref\BuiThiHai_2019606166_proeject62.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\bin\Debug\net5.0\BuiThiHai_2019606166_proeject62.pdb
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.csproj.AssemblyReference.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.AssemblyInfoInputs.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.AssemblyInfo.cs
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.csproj.CoreCompileInputs.cache
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\ref\BuiThiHai_2019606166_proeject62.dll
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.pdb
+C:\Users\Dell E\source\repos\BuiThiHai_2019606166_proeject62\BuiThiHai_2019606166_proeject62\obj\Debug\net5.0\BuiThiHai_2019606166_proeject62.genruntimeconfig.cache
