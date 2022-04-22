@@ -1,0 +1,16 @@
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.exe
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.deps.json
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.runtimeconfig.json
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.runtimeconfig.dev.json
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.dll
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\ref\De01_22.dll
+D:\.NET\De01_22\De01_22\bin\Debug\net5.0\De01_22.pdb
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.csproj.AssemblyReference.cache
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.AssemblyInfoInputs.cache
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.AssemblyInfo.cs
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.csproj.CoreCompileInputs.cache
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.dll
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\ref\De01_22.dll
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.pdb
+D:\.NET\De01_22\De01_22\obj\Debug\net5.0\De01_22.genruntimeconfig.cache
